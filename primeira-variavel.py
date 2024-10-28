@@ -1,0 +1,2 @@
+mensagem = "Hello Python World!" # mensagem é a variavel criada # "Hello Python World!" é o valor que recebe dessa variavel
+print(mensagem) # colocamos a variavel dentro do print para exibir a mensagem que e a nossa variavel tem o valor hello python world
